@@ -1,0 +1,4 @@
+buildautomation.sublime-*
+*.pyc
+myenv
+.ropeproject
